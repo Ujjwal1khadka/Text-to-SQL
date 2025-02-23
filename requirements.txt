@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+pandas
+sqlite3
+jinja2
+pytest
+httpx
