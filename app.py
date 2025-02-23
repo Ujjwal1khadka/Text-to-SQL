@@ -11,7 +11,7 @@ import pandas as pd
 app = FastAPI(
     title="Flight Delays Text-to-SQL API",
     description="An API that converts natural language queries to SQL for querying flight delays data",
-    version="1.0.0",
+    version="1.0.0"
 )
 
 load_dotenv()
